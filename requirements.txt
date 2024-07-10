@@ -1,0 +1,6 @@
+numpy~=1.26.3
+opencv-python~=4.9.0.80
+cvzone~=1.6.1
+tensorflow~=2.15.0
+setuptools~=65.5.0
+-e .
